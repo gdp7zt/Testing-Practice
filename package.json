@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing-practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdp7zt/Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdp7zt/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/gdp7zt/Testing-Practice#readme"
+}
